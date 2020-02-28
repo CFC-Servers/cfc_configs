@@ -673,7 +673,7 @@
     "g_sunbeams", "g_texturize", "gmodscreenspace", "sobel",
 
     -- Extras --
-    "SERVER", "CLIENT", "hook",
+    "SERVER", "CLIENT"
     }
   }
 }

@@ -1897,8 +1897,7 @@ return {
       "gmodscreenspace",
       "sobel",
       "SERVER",
-      "CLIENT",
-      "hook"
+      "CLIENT"
     }
   }
 }
