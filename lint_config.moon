@@ -82,6 +82,30 @@
     "SurfaceInfo", "Task", "Tool", "Vehicle",
     "VMatrix", "Weapon",
 
+    -- Libraries --
+    "achievements", "ai", "ai_schedule", "ai_task",
+    "baseclass", "bit", "cam", "chat",
+    "cleanup", "concommand", "constraint", "construct",
+    "controlpanel", "cookie", "coroutine", "cvars",
+    "debug", "debugoverlay", "derma", "dragndrop",
+    "draw", "drive", "duplicator", "effects",
+    "engine", "ents", "file", "frame_blend",
+    "game", "gameevent", "gamemode", "gmod",
+    "gmsave", "gui", "GWEN", "halo",
+    "hammer", "hook", "http", "input",
+    "jit", "killicon", "language", "list",
+    "markup", "math", "matproxy", "menu",
+    "menubar", "mesh", "motionsensor", "navmesh",
+    "net", "notification", "numpad", "os",
+    "package", "physenv", "player", "player_manager",
+    "presets", "properties", "render", "resource",
+    "saverestore", "scripted_ents", "search", "serverlist",
+    "sound", "spawnmenu", "sql", "steamworks",
+    "string", "surface", "system", "table",
+    "team", "timer", "umsg", "undo",
+    "usermessage", "utf8", "util", "vgui",
+    "video", "weapons", "widgets",
+
     -- Enums --
     -- _USE
     "CONTINUOUS_USE", "ONOFF_USE", "DIRECTIONAL_USE", "SIMPLE_USE",
@@ -648,7 +672,7 @@
     "g_sunbeams", "g_texturize", "gmodscreenspace", "sobel",
 
     -- Extras --
-    "SERVER", "CLIENT"
+    "SERVER", "CLIENT", "hook",
     }
   }
 }
