@@ -674,6 +674,10 @@
 
     -- Extras --
     "SERVER", "CLIENT"
+    
+    -- Addons --
+    "pace", "ULib", "ULX", "WireLib",
+    "WebhookerInterface", "Logger"
     }
   }
 }
