@@ -677,7 +677,7 @@
     
     -- Addons --
     "pace", "ULib", "ULX", "WireLib",
-    "WebhookerInterface", "Logger"
+    "WebhookerInterface", "Logger", "Section580"
     }
   }
 }
