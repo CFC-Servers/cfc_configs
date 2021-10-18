@@ -678,11 +678,19 @@
     "g_sunbeams", "g_texturize", "gmodscreenspace", "sobel",
 
     -- Extras --
-    "SERVER", "CLIENT"
+    "SERVER", "CLIENT", "g_ContextMenu", "_",
     
     -- Addons --
-    "pace", "ULib", "ULX", "WireLib",
-    "WebhookerInterface", "Logger", "Section580"
+    "pac", "pace",
+    "WireLib", "FLIR",
+    "ULib", "ULX", "ulx",
+    "HOOK_MONITOR_HIGH", "HOOK_HIGH", "HOOK_LOW", "HOOK_MONITOR_LOW",
+    "CFCPvp", "WebhookerInterface", "Logger", "Section580",
+    "ACF", "ACF_HE", "ACF_Check", "ACF_GetHitAngle", "ACF_Damage", "ACF_HEKill", "ACF_APKill",
+    "simfphys",
+    
+    -- Simple Thirdperson --
+    "ServerBool"
     }
   }
 }
