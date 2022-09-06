@@ -19,6 +19,9 @@
     "lint_unusedParameters":            true,
     "lint_unusedLoopVars":              true,
     "lint_inconsistentVariableStyle":   false,
+    "lint_spaceAfterParens":            true,
+    "lint_spaceAfterBrackets":          false,
+    "lint_spaceAfterBraces":            true,
     "lint_ignoreFiles":                 [],
 
     "prettyprint_spaceAfterParens":     true,
