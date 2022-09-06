@@ -22,7 +22,7 @@
     "DrawSunbeams", "DrawTexturize", "DrawToyTown", "DropEntityIfHeld",
     "DynamicLight", "EffectData", "Either", "EmitSentence",
     "EmitSound", "EndTooltip", "Entity", "Error",
-    "error", "ErrorNoHalt", "EyeAngles", "EyePos",
+    "error", "ErrorNoHalt", "ErrorNoHaltWithStack", "EyeAngles", "EyePos",
     "EyeVector", "FindMetaTable", "FindTooltip", "Format",
     "FrameNumber", "FrameTime", "GameDetails", "gcinfo",
     "GetConVar", "GetConVar_Internal", "GetConVarNumber", "GetConVarString",
@@ -681,7 +681,8 @@
     "SERVER", "CLIENT", "g_ContextMenu", "_", "NULL",
     
     -- Addons --
-    "pac", "pace",
+    "CPPI",
+    "pac", "pace", "pacx",
     "WireLib", "FLIR",
     "ULib", "ULX", "ulx", "CFCUlxCommands",
     "HOOK_MONITOR_HIGH", "HOOK_HIGH", "HOOK_LOW", "HOOK_MONITOR_LOW",
