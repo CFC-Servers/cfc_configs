@@ -20,7 +20,7 @@
     "lint_unusedLoopVars":              true,
     "lint_inconsistentVariableStyle":   false,
     "lint_spaceAfterParens":            true,
-    "lint_spaceAfterBrackets":          false,
+    "lint_spaceAfterBrackets":          true,
     "lint_spaceAfterBraces":            true,
     "lint_ignoreFiles":                 [],
 
