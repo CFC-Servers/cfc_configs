@@ -1,9 +1,0 @@
-name: JSON Lint
-
-on:
-  pull_request:
-
-jobs:
-  lint:
-    - name: json-lint
-      uses: ocular-d/json-linter@0.0.2
