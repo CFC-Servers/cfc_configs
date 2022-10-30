@@ -5,5 +5,4 @@ on:
 
 jobs:
   lint:
-    - name: json-lint
-      uses: ocular-d/json-linter@0.0.2
+    uses: ocular-d/json-linter@0.0.2
