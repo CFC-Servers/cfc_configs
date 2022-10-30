@@ -22,7 +22,7 @@
     "lint_spaceAfterParens":            true,
     "lint_spaceAfterBrackets":          true,
     "lint_spaceAfterBraces":            true,
-    "lint_ignoreFiles":                 ["lua/entities/gmod_wire_expression2/core/custom/*"],,
+    "lint_ignoreFiles":                 ["lua/entities/gmod_wire_expression2/core/custom/*"],
 
     "prettyprint_spaceAfterParens":     true,
     "prettyprint_spaceAfterBrackets":   false,
