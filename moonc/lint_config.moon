@@ -1,6 +1,6 @@
 {
   whitelist_globals: {
-    ["moon/"]: {
+    ["/"]: {
 
     -- Globals --
     "AccessorFunc", "Add_NPC_Class", "AddBackgroundImage", "AddConsoleCommand",
