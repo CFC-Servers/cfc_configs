@@ -688,7 +688,7 @@
     "HOOK_MONITOR_HIGH", "HOOK_HIGH", "HOOK_LOW", "HOOK_MONITOR_LOW",
     "CFCPvp", "WebhookerInterface", "Logger", "Section580",
     "ACF", "ACF_HE", "ACF_Check", "ACF_GetHitAngle", "ACF_Damage", "ACF_HEKill", "ACF_APKill",
-    "simfphys",
+    "simfphys", "moonloader",
     
     -- Simple Thirdperson --
     "ServerBool"
